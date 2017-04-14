@@ -10,3 +10,7 @@
 
 ### About Me
 I'm a student [@Hacktiv8](https://hacktiv8.com)
+
+### Future Plans
+  - Migrate to React javascript library
+  - Add new pages on advanced topics
